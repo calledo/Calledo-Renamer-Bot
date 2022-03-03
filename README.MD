@@ -3,7 +3,7 @@
 **Please Give a ☆ if You like This Open Source and Don't Forget to Follow Me On Github For More Repos And Codes.**
 
 ```
-Scrapped some code from @SpEcHIDe's AnyDLBot Repository
+New Digital Renamer Bot By @Calledo_Gaming
 Please fork this repository don't import code
 Made with Python3
 (C) @TheTeleRoid
@@ -41,4 +41,4 @@ License -> https://github.com/PredatorHackerzZ/RENAMER-BOT/blob/master/LICENSE
 ### Credits
 
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
-* [Clinton Abraham](https://github.com/Clinton-Abraham)
+* [Calledo Gaming](https://t.me//Calledo_Gaming)
